@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/openxc.iml" filepath="$PROJECT_DIR$/openxc.iml" />
+      <module fileurl="file://D:\AndroidStudioProjects\android-sdk-master\samples\safetify\app\app.iml" filepath="D:\AndroidStudioProjects\android-sdk-master\samples\safetify\app\app.iml" />
+      <module fileurl="file://D:\AndroidStudioProjects\android-sdk-master\samples\safetify\openxc.iml" filepath="D:\AndroidStudioProjects\android-sdk-master\samples\safetify\openxc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safetify.iml" filepath="$PROJECT_DIR$/safetify.iml" />
     </modules>
   </component>
 </project>
